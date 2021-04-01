@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/com/poly/Test/VideoTest.java=UTF-8
+encoding//src/com/poly/servlet/AccountServlet.java=UTF-8
+encoding//src/com/poly/servlet/Index.java=UTF-8
+encoding//src/com/poly/servlet/LikeServlet.java=UTF-8
+encoding//src/com/poly/servlet/MyFavorite.java=UTF-8
+encoding//src/com/poly/servlet/ShareServlet.java=UTF-8
+encoding//src/com/poly/servlet/UnlikeServlet.java=UTF-8
+encoding//src/com/poly/servlet/WatchVideoServlet.java=UTF-8
+encoding//src/com/poly/servlet/admin/ReportServlet.java=UTF-8
+encoding//src/com/poly/servlet/admin/UserEditionServlet.java=UTF-8
+encoding//src/com/poly/servlet/admin/UserListServlet.java=UTF-8
+encoding//src/com/poly/servlet/admin/VideoEditionServlet.java=UTF-8
+encoding//src/com/poly/servlet/admin/VideoListServlet.java=UTF-8
+encoding//src/com/poly/utils/FavoriteDAO.java=UTF-8
